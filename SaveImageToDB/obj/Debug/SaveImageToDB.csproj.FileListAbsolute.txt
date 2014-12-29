@@ -1,0 +1,12 @@
+E:\CSharp\SaveImageToDB\SaveImageToDB\bin\Debug\SaveImageToDB.exe.config
+E:\CSharp\SaveImageToDB\SaveImageToDB\bin\Debug\SaveImageToDB.exe
+E:\CSharp\SaveImageToDB\SaveImageToDB\bin\Debug\SaveImageToDB.pdb
+E:\CSharp\SaveImageToDB\SaveImageToDB\obj\Debug\SaveImageToDB.csprojResolveAssemblyReference.cache
+E:\CSharp\SaveImageToDB\SaveImageToDB\obj\Debug\SaveImageToDB.Form1.resources
+E:\CSharp\SaveImageToDB\SaveImageToDB\obj\Debug\SaveImageToDB.Properties.Resources.resources
+E:\CSharp\SaveImageToDB\SaveImageToDB\obj\Debug\SaveImageToDB.csproj.GenerateResource.Cache
+E:\CSharp\SaveImageToDB\SaveImageToDB\obj\Debug\SaveImageToDB.exe
+E:\CSharp\SaveImageToDB\SaveImageToDB\obj\Debug\SaveImageToDB.pdb
+E:\CSharp\Image2SqlServer\SaveImageToDB\bin\Debug\SaveImageToDB.exe.config
+E:\CSharp\Image2SqlServer\SaveImageToDB\obj\Debug\SaveImageToDB.exe
+E:\CSharp\Image2SqlServer\SaveImageToDB\obj\Debug\SaveImageToDB.pdb
