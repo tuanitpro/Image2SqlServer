@@ -1,4 +1,4 @@
-Imge2SqlServer
+Image2SqlServer
 ==============
 
 Insert Image to Sql Server
